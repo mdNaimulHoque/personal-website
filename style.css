@@ -1,0 +1,140 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    height: 900px;
+    background-image: url(personal-website/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    padding: 150px 0 0 0;
+}
+p{
+    color: rgb(112, 108, 108);
+    font-size: 25px;
+    padding: 20px;
+}
+.text-highlight{
+    color: rgb(241, 15, 166);
+    font-size: 50px;
+    font-weight: 700;
+    padding: 20px 0px;
+}
+.half-side{
+    width: 40%;
+    float: left;
+    padding-left: 100px;
+    margin-top: 100px;
+}
+.link-button1{
+        text-decoration: none;
+        background-image: linear-gradient(45deg,rgb(245, 75, 154), rgb(243, 137, 178));
+        padding: 15px 25px;
+        border-radius: 5px;
+        color: white;
+        font-size: 700;
+        
+}
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,rgb(119, 177, 243), rgb(105, 22, 240));
+    padding: 15px 25px;
+    border-radius: 5px;
+    color: white;
+    font-size: 700;
+    
+}
+.second-top{
+    height: 900px;
+    background-image: url(personal-website/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-position: center;
+}
+.photo{
+    width: 600px;
+    float: right;
+}
+.work-area{
+    height: 900px;
+    background-image: url("personal-website/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    background-position: center;
+}
+.part-area{
+    width: 25%;
+    height: 100%;
+    float: left;
+    margin-left: 100px;
+}
+.work-text-highlight{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center; 
+    margin-bottom: 60px;
+}
+.footer-area{
+    height: 900px;
+    background-image: url("personal-website/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    background-position: center;
+}
+.footer-header{
+    font-size: 40px;
+    text-align: center;
+    margin:100px 0 50px 0;
+}
+h3{
+    font-size: 25px;
+    text-align: center;
+}
+.owner-text{
+    font-size: 20px;
+    color: rgb(172, 165, 165);
+}
+h4{
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+}
+.client-comments{
+    text-align: center;
+    margin: 100px;
+}
+.email-design{
+    font-size: 30px;
+    text-align: center;
+    padding: 60px;
+    
+}
+//.text-dec{
+    text-decoration: none;
+    text-align: center;
+}
+.link-button3{
+
+    text-decoration: none;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    background-image: linear-gradient(45deg,rgb(247, 10, 140), rgb(241, 100, 124));
+    border: none;
+    border-radius: 5px;
+    float: left;
+    padding: 50px 150px;
+    margin-left: 500px;
+   
+}
+footer{
+    text-align: center;
+}
+
+
